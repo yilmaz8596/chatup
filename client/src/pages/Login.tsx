@@ -15,7 +15,7 @@ export default function Login() {
   });
 
   return (
-    <div className="h-[calc(100vh-1200px)] hero">
+    <div className="h-full hero flex items-center justify-center mt-20">
       <div className="hero-content flex-col max-w-lg w-full">
         <div className="text-center">
           <h1 className="text-3xl font-bold">Welcome!</h1>
